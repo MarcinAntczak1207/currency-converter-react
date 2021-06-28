@@ -1,0 +1,22 @@
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+
+.container__mainHeader {
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.container__header {
+    margin-left: 10px;
+    font-weight: bold;
+    text-shadow: none;
+}
+
+.container__result {
+    font-size: 25px;
+    text-align: center;
+}
