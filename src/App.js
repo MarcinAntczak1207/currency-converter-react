@@ -1,8 +1,8 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import Form from "./Form";
 import Container from "./Container";
 import Result from "./Result";
-import { currencies }  from "./currencies";
+import { currencies } from "./currencies";
 
 
 function App() {
@@ -24,11 +24,11 @@ function App() {
     <Container>
       <div className="container">
         <p className="container__mainHeader">Kalkulator walut</p>
-        <Form 
-        calculateResult={calculateResult}
+        <Form
+          calculateResult={calculateResult}
         />
         <Result
-        result={result}
+          result={result}
         />
       </div>
     </Container>
