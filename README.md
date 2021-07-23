@@ -4,7 +4,7 @@
 
 The Currency-converter allows you to convert the Polish currency into Euro, US Dollars, British Pounds or Swiss Francs. 
 ## Currency-converter link
-(https://marcinantczak1207.github.io/currency-converter/)
+(https://marcinantczak1207.github.io/currency-converter-react/)
 
 ## Technologies 
 - html
