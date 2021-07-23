@@ -1,0 +1,8 @@
+.clock {
+    margin: 0 auto;
+    padding: 0 px;
+    text-align: right;
+    color: #533d3d;
+    font-size: 14px;
+    font-family: 'Ubuntu Mono', monospace;
+}
